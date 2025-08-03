@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/anast/Desktop/proect/MyProject/Content/FirstPerson/MI_FirstPersonColorway.uasset",
+				"C:/Users/anast/Desktop/proect/MyProject/Content/ThirdPerson/Blueprints/Door.uasset",
+				"C:/Users/anast/Desktop/proect/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/9H/XEVMLY766SQDWTLUN6XFTX.uasset"
+			]
+		}
+	]
+}
