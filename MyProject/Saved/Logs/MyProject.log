@@ -1634,3 +1634,58 @@ Please see Output Log for details.
 [2025.08.03-10.06.54:070][250]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.03-10.06.54:070][250]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 624.003113, Update Interval: 303.468109
 [2025.08.03-10.07.34:661][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.03-10.12.02:278][224]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 932.231506
+[2025.08.03-10.12.03:272][227]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-10.12.03:272][227]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 932.890991, Update Interval: 308.380981
+[2025.08.03-10.17.26:339][196]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1256.292847
+[2025.08.03-10.17.27:336][199]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-10.17.27:336][199]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1256.954712, Update Interval: 300.457764
+[2025.08.03-10.22.45:092][152]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1575.045288
+[2025.08.03-10.22.46:093][155]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-10.22.46:093][155]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1575.708618, Update Interval: 300.117188
+[2025.08.03-10.28.35:430][235]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1925.385010
+[2025.08.03-10.28.36:433][238]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-10.28.36:433][239]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1926.052734, Update Interval: 337.893005
+[2025.08.03-10.35.06:830][410]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2316.782227
+[2025.08.03-10.35.07:829][412]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-10.35.07:829][413]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2317.448486, Update Interval: 344.362305
+[2025.08.03-10.38.51:183][469]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.08.03-10.38.51:185][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.03-10.38.51:246][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.08.03-10.38.56:162][727]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.08.03-10.38.56:162][727]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.08.03-10.38.56:164][727]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_24B2B9206352B58102_1524282576
+[2025.08.03-10.38.56:165][727]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_24B2B9206352B58102_1524282576
+[2025.08.03-10.39.04:887][163]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.08.03-10.39.04:887][163]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.08.03-10.39.04:888][163]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_24B2B9206352B58102_1533007577
+[2025.08.03-10.39.04:888][163]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_24B2B9206352B58102_1533007577
+[2025.08.03-10.39.33:475][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-10.39.33:548][610]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/XL/Z7FE1TQE3L48V26JKFR1GL
+[2025.08.03-10.39.33:548][610]LogSavePackage: Moving '../../../../Users/anast/Desktop/proect/MyProject/Saved/Z7FE1TQE3L48V26JKFR1GL9EABC13D4C3478F82E6A1F8F10DE17C4.tmp' to '../../../../Users/anast/Desktop/proect/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/XL/Z7FE1TQE3L48V26JKFR1GL.uasset'
+[2025.08.03-10.39.33:557][610]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/RC/2P29TYVE1USOJDZDLCQ6O5
+[2025.08.03-10.39.33:557][610]LogSavePackage: Moving '../../../../Users/anast/Desktop/proect/MyProject/Saved/2P29TYVE1USOJDZDLCQ6O517A128514DDFD2022577699CDDA8D055.tmp' to '../../../../Users/anast/Desktop/proect/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/RC/2P29TYVE1USOJDZDLCQ6O5.uasset'
+[2025.08.03-10.39.33:576][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.908 ms (total: 452.994 ms)
+[2025.08.03-10.39.33:639][610]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.03-10.39.33:639][610]LogContentValidation: Enabled validators:
+[2025.08.03-10.39.33:639][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-10.39.33:639][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-10.39.33:639][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-10.39.33:639][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-10.39.33:639][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-10.39.33:639][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-10.39.33:639][610]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.08.03-10.39.33:677][610]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Users/anast/Desktop/proect/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.03-10.39.46:675][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-10.39.46:746][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/XL/Z7FE1TQE3L48V26JKFR1GL
+[2025.08.03-10.39.46:746][279]LogSavePackage: Moving '../../../../Users/anast/Desktop/proect/MyProject/Saved/Z7FE1TQE3L48V26JKFR1GLFDF55BA74E9CC4D7B4E72395D21A9BBA.tmp' to '../../../../Users/anast/Desktop/proect/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/XL/Z7FE1TQE3L48V26JKFR1GL.uasset'
+[2025.08.03-10.39.46:766][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.343 ms (total: 544.338 ms)
+[2025.08.03-10.39.46:825][279]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-10.39.46:825][279]LogContentValidation: Enabled validators:
+[2025.08.03-10.39.46:825][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-10.39.46:825][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-10.39.46:825][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-10.39.46:825][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-10.39.46:825][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-10.39.46:825][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-10.39.46:825][279]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
